@@ -27,5 +27,5 @@
 - Learn Git - https://try.github.io/
 - OOP With Java - http://mooc.fi/english.html
 - FreeCodeCamp - http://www.freecodecamp.com/
-
+- Graphic and Web Design Trends in 2015 - http://www.1stwebdesigner.com/graphic-web-design-trends-2015/
 
