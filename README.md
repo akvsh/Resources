@@ -25,6 +25,9 @@
 - CodeSchool - https://www.codeschool.com/
 - Visualgo - http://visualgo.net/ 
 - Learn Git - https://try.github.io/
+- PhoneGap - http://phonegap.com/
+- Ionic - http://ionicframework.com/
+- AngularJS - https://angularjs.org/
 - OOP With Java - http://mooc.fi/english.html
 - FreeCodeCamp - http://www.freecodecamp.com/
 - Graphic and Web Design Trends in 2015 - http://www.1stwebdesigner.com/graphic-web-design-trends-2015/
