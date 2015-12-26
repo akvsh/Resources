@@ -26,6 +26,7 @@
 - Visualgo - http://visualgo.net/ 
 - Learn Git - https://try.github.io/
 - PhoneGap - http://phonegap.com/
+- Brand Colours - http://brandcolors.net/
 - Ionic - http://ionicframework.com/
 - AngularJS - https://angularjs.org/
 - OOP With Java - http://mooc.fi/english.html
