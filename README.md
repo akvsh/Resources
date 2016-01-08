@@ -10,6 +10,8 @@
 - The Odin Project - http://www.theodinproject.com/home
 - Become a Programmer, Motherfucker - http://programming-motherfucker.com/become.html
 - Major League Hacking - https://mlh.io/
+- Mobile Patterns - http://www.mobile-patterns.com/
+- Land Book - http://land-book.com/
 - Github Student Dev Pack - https://education.github.com/pack
 - FirstMark Elite Summer Internship Program - http://firstmarkelite.com/
 - RubyMonk - https://rubymonk.com/
