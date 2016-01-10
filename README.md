@@ -37,4 +37,7 @@
 - FreeCodeCamp - http://www.freecodecamp.com/
 - Graphic and Web Design Trends in 2015 - http://www.1stwebdesigner.com/graphic-web-design-trends-2015/
 - Learn C++ - http://www.learncpp.com/
+- Learn C The Hard Way - http://c.learncodethehardway.org/book/
+- Learn Python The Hard Way - http://learnpythonthehardway.org/book/
+- Learn Ruby The Hard Way - http://learnrubythehardway.org/book/
 
