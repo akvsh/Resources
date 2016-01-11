@@ -23,6 +23,7 @@
 - Hyperpolyglot Programming Languages - http://hyperpolyglot.org/
 - Freenom - http://www.freenom.com/en/index.html
 - Devpost - http://devpost.com/
+- MusicBrainz - https://musicbrainz.org/
 - Represent - https://represent.io/
 - BSinCS - https://docs.google.com/spreadsheets/d/1_kdHrT8izbROJNaxGflpcZm2ivsjRGF8j1hMzl3b8O0/htmlview?usp=sharing&sle=true
 - 40 Key CS Concepts in Laymans Terms - http://carlcheo.com/compsci
